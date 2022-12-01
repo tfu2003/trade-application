@@ -1,0 +1,18 @@
+{"trades": [{"teams": [
+    {
+        "players": [{
+            "name": "Kyle Lowry",
+            "position": "Point Guard",
+            "salary": 2.8E7
+        }],
+        "name": "Toronto Raptors"
+    },
+    {
+        "players": [{
+            "name": "Kevin Durant",
+            "position": "Small Forward",
+            "salary": 4.8E7
+        }],
+        "name": "Brooklyn Nets"
+    }
+]}]}
